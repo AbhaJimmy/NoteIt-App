@@ -3,4 +3,4 @@ NoteIt is a note-taking app which allows you to create notes with features like 
 # Languages Used 
 HTML, CSS, JavaScript
 # Live Link
-
+https://abhajimmy.github.io/NoteIt-App/
